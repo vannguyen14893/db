@@ -1,0 +1,16 @@
+/logs/
+/.idea/
+/target/
+/.apt_generated_tests
+/.apt_generated/
+
+/.settings/
+
+/.classpath
+
+/.factorypath
+
+/.project
+
+/src/main/resources/application.properties
+
